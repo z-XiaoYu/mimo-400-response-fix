@@ -4,11 +4,6 @@ MiMo API 代理 — 使用说明
 第 1 步：填入你的 API Key
 用记事本打开 mimo_proxy.py，找到第 16~17 行：
 
-
-# ============================================================
-# PUT YOUR API KEY HERE
-# Paste your MiMo Token Plan Key between the quotes below
-# ============================================================
 API_KEY = ""  # <-- Paste your Key, e.g. API_KEY = "tp-xxxxxxxxxxxx"
 
 把你的 Key 粘贴到引号里，比如：
